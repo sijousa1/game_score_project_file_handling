@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1752769652 source:e:\c_cpp programs\game_score_project\main.cpp
+	<iostream>
+	<fstream>
+
